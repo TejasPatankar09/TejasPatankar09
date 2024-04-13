@@ -5,6 +5,6 @@
 - 🌱 I’m currently learning Data Analytics And Data Science With AI.
 - 💞️ My interests in data analytics span a wide range of areas, including exploratory data analysis, predictive modeling, machine learning, and data visualization,
    and I'm always excited to learn and apply new techniques to solve real-world problems.
-- 📫 U can reach me Through my email : tejaspatankar43@gmail.com
+- 📫 U can reach me Through my email : tejaspatankar69@gmail.com
 
 
